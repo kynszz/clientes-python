@@ -1,4 +1,4 @@
 # Clientes-Python
-### Projeto de um cadastro de clientes utilizado para começa a compreender MVC e relembrar as estruturas e basicas do python 
-#
 
+### Projeto de um cadastro de clientes utilizado para começar a compreender MVC (Model V) e relembrar as estruturas básicas do Python
+#
