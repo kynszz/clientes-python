@@ -8,3 +8,6 @@ def validar_login(usuario_digitado, senha_digitado):
     else:
         print("usuario ou senha invalido")
 
+def iniciar():
+    view.formulario_login()
+
