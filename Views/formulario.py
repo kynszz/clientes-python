@@ -1,4 +1,4 @@
-import validacao
+import controllers.validacao as validacao
 # View - o que vai para usuario 
 def formulario_login():
     usuario_digitado = input("infrome o seu usuario: ")

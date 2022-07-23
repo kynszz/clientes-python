@@ -1,4 +1,4 @@
-import banco 
+import models.banco as banco 
 # Controller - a validaçao
 def validar_login(usuario_digitado, senha_digitado):
     usuario_BD = banco.model_usuario()
